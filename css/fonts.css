@@ -1,0 +1,19 @@
+@font-face{
+    font-family: "Forum-Regular";
+    src: url(../fonts/forum/Forum-Regular.ttf) format("TrueType font");
+}
+@font-face{
+    font-family: "Forum-Regular";
+    src: url(../fonts/forum/Forum-Regular.woff) format("woff");
+}
+@font-face{
+    font-family: "Inter-Medium";
+    src: url(../fonts/inter/Inter-Medium.ttf) format("TrueType font");
+}
+@font-face{
+    font-family: "Inter-Medium";
+    src: url(../fonts/inter/Inter-Medium.woff) format("woff");
+    
+}
+
+
